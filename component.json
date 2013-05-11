@@ -1,0 +1,16 @@
+{
+  "name": "dom",
+  "repo": "yields/dom",
+  "description": "Create a dom like structure from html.",
+  "version": "0.0.1",
+  "keywords": ["dom"],
+  "dependencies": {
+    "yields/scan-html": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
