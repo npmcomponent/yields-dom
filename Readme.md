@@ -1,7 +1,7 @@
 
 # dom
 
-  Create a dom like structure from html (WIP).
+  Create a dom like structure from html.
 
 ## Installation
 
