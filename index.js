@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var scan = require('scan-html');
+var scan = require('yields-scan-html');
 
 /**
  * Generate a dom like structure from the given `html`.

@@ -1,0 +1,13 @@
+{
+  "name": "yields-dom",
+  "description": "Create a dom like structure from html.",
+  "version": "0.0.1",
+  "keywords": [
+    "dom"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-scan-html": "git://github.com/npmcomponent/yields-scan-html.git"
+  },
+  "license": "MIT"
+}
